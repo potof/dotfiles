@@ -1,0 +1,86 @@
+{
+  "entries": {
+    "tap": {
+      "homebrew/bundle": {
+        "revision": "6fa389091d1b7450df0701d6a0d20e862bda6507"
+      },
+      "homebrew/cask": {
+        "revision": "fa86fbe7ae11f0c89a2713b17b4965afe5c81cb3"
+      },
+      "homebrew/cask-versions": {
+        "revision": "6cd48d692bb67b1c927efe268f46b89030207623"
+      },
+      "homebrew/core": {
+        "revision": "0da8557980f52cb7b820ed3aa1d9af0de47ed250"
+      }
+    },
+    "cask": {
+      "1password": {
+        "version": null,
+        "options": {
+          "full_name": "1password"
+        }
+      },
+      "dropbox": {
+        "version": null,
+        "options": {
+          "full_name": "dropbox"
+        }
+      },
+      "visual-studio-code": {
+        "version": null,
+        "options": {
+          "full_name": "visual-studio-code"
+        }
+      },
+      "alfred": {
+        "version": null,
+        "options": {
+          "full_name": "alfred"
+        }
+      },
+      "google-chrome": {
+        "version": null,
+        "options": {
+          "full_name": "google-chrome"
+        }
+      },
+      "kindle": {
+        "version": null,
+        "options": {
+          "full_name": "kindle"
+        }
+      },
+      "google-japanese-ime": {
+        "version": null,
+        "options": {
+          "full_name": "google-japanese-ime"
+        }
+      },
+      "karabiner-elements": {
+        "version": null,
+        "options": {
+          "full_name": "karabiner-elements"
+        }
+      },
+      "github": {
+        "version": null,
+        "options": {
+          "full_name": "github"
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "big_sur": {
+        "HOMEBREW_VERSION": "2.6.0",
+        "HOMEBREW_PREFIX": "/opt/homebrew",
+        "Homebrew/homebrew-core": "0da8557980f52cb7b820ed3aa1d9af0de47ed250",
+        "CLT": "12.2.0.0.1.1604076827",
+        "Xcode": "12.0",
+        "macOS": "11.0.1"
+      }
+    }
+  }
+}
