@@ -68,6 +68,18 @@
         "options": {
           "full_name": "github"
         }
+      },
+      "iterm2": {
+        "version": null,
+        "options": {
+          "full_name": "iterm2"
+        }
+      },
+      "cheatsheet": {
+        "version": null,
+        "options": {
+          "full_name": "cheatsheet"
+        }
       }
     }
   },
